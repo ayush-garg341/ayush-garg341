@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ayush-garg341
-- 👀 I’m interested in C, javascript ...
-- 🌱 I’m currently learning data structures and alogorithms ...
-- 💞️ I’m looking to collaborate on open source projects which have amazing ideas behind...
+- 👋 Hi, I’m Ayush, with 5+ years of experience in backend engineering.
+- 👀 I mostly code in python and golang. For my personal interest I love to code in c
+- 🌱 I’m currently building an ecommerce platform for a startup.
+      - Currently building Smart Homes as a personal project.
+- 💞️ Always open for awesome idea implementation.
 - 📫 How to reach me -> drop an email @ gargayush341@gmail.com 
 
 <!---
