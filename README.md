@@ -1,6 +1,6 @@
 👋 Hi, I’m Ayush — a backend engineer with 7+ years of experience working across PHP, Python, and Golang.
 
-⚙️ I’ve worked on legacy systems, built scalable services, and contributed to programmatic ad platforms (e.g., Kaden AI).
+⚙️ I’ve worked on legacy systems, built scalable services, and contributed to programmatic ad platforms (e.g., Kaden AI). Currently not working anywhere and exploring my interests.
 
 🧠 Currently exploring distributed computing over LAN using phones and PCs.
 
