@@ -4,7 +4,7 @@
 
 🧠 Currently exploring distributed computing over LAN using phones and PCs.
 
-🛠️ I enjoy low-level stuff — from x86_64 assembly to reverse engineering, building game in C, custom memory allocator and deallocator and system design.
+🛠️ I enjoy low-level stuff, debugging them for performance, debugging them for memory — from x86_64 assembly to reverse engineering, building game in C, custom memory allocator and deallocator and system design.
 
 📫 Reach me at gargayush341@gmail.com
 
