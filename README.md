@@ -1,14 +1,68 @@
-👋 Hi, I’m Ayush — a backend engineer with 7+ years of experience working across PHP, Python, and Golang.
+# 👋 Hi, I'm Ayush Garg
 
-⚙️ I’ve worked on legacy systems, built scalable services, and contributed to programmatic ad platforms (e.g., Kaden AI). Currently not working anywhere and exploring my interests.
+**Backend / Systems Engineer | 7+ years experience | Python - C - Php - Go**
 
-🧠 Currently exploring distributed computing over LAN using phones and PCs.
+I build software that cares about **performance, correctness, and how things actually work under the hood**.
 
-🛠️ I enjoy low-level stuff, debugging software for performance, memory — from x86_64 assembly to reverse engineering, building game in C, custom memory allocator and deallocator and system design.
+I've spent most of my career working on **real-world production systems** - from legacy codebases to scalable backend services — and I enjoy digging into problems that sit close to the OS, memory, and networking layers.
 
-📫 Reach me at gargayush341@gmail.com
+---
 
-<!---
-ayush-garg341/ayush-garg341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 What I'm into right now
+- Doing CTFs from pwn.college and learning cybersecurity.
+- Exploring concurrency models, task scheduling, and resource sharing ( learning OS by implementing them )
+- Reverse engineering & understanding systems from first principles  
+
+---
+
+## 🛠️ What I enjoy working on
+- Backend systems & APIs that scale and fail gracefully  
+- Breaking the systems
+- Debugging **performance & memory issues** (the fun kind 😄)  
+- Low-level programming:
+  - x86_64 assembly
+  - Custom memory allocators / deallocators
+  - File I/O, buffering, caching strategies
+- Systems design with a strong bias for **simplicity & observability**
+- Occasionally building games & experiments in **C**
+
+---
+
+## 💼 Experience highlights
+- 7+ years building and maintaining backend systems  
+- Worked extensively with **Python, PHP and Golang**  
+- Experience with **programmatic advertising platforms** (e.g. Kaden AI)  
+- Comfortable navigating and modernizing **large legacy codebases**  
+- Strong at reading unfamiliar code and making it behave  
+
+---
+
+## 🧰 Tech I work with
+**Languages**  
+`PHP` · `Python` · `Golang` · `C`
+
+**Systems & Concepts**  
+`Linux` · `Networking` · `Concurrency` · `Memory Management` ·  
+`Async I/O` · `Caching` · `Profiling` · `Debugging`
+
+**Tools**  
+`Docker` · `Redis` · `Nginx` · `Git` · `curl` · `strace` · `gdb`
+
+---
+
+## 🚀 What I’m looking for
+I’m currently **independent and exploring**, open to:
+- Backend / systems roles  
+- Performance-critical systems  
+- Infra, distributed systems, or low-level problem spaces  
+
+If the problem involves *"this shouldn't be slow, but it is"*, I’m interested.
+
+---
+
+## 📫 Get in touch
+📧 **gargayush341@gmail.com**
+
+---
+
+> *I believe understanding the machine makes you a better engineer.*
