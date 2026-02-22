@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ayush Garg
+# 👋 Hi, I'm Ayush Garg 
 
-**Backend / Systems Engineer | 7+ years experience | Python - C - Php - Go**
+**Backend / Systems Engineer | 7+ years experience | Python - C - Php - Go [(Portfolio)](https://ayush-garg341.github.io/portfolio/)**
 
 I build software that cares about **performance, correctness, and how things actually work under the hood**.
 
@@ -44,13 +44,13 @@ Public projects with private code: [p2pchat](https://zerolog.chat/), [ChatToPost
 `Docker` - `Redis` - `Nginx` - `Git` - `curl` - `strace` - `gdb`
 
 ---
-## 🚀 What I’m looking for
-I’m currently **independent and exploring**, open to:
+## 🚀 What I'm looking for
+I'm currently **independent and exploring**, open to:
 - Backend / systems roles  
 - Performance-critical systems  
 - Infra, distributed systems, or low-level problem spaces  
 
-If the problem involves *"this shouldn't be slow, but it is"*, I’m interested.
+If the problem involves *"this shouldn't be slow, but it is"*, I'm interested.
 
 ---
 
