@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Garg 
 
-**Backend / Systems Engineer | 7+ years experience | Python - C - Php - Go [(Portfolio)](https://ayush-garg341.github.io/portfolio/)**
+**Backend / Systems Engineer | 7+ years experience | Python - C - Php - Go | [(Portfolio)](https://ayush-garg341.github.io/portfolio/)**
 
 I build software that cares about **performance, correctness, and how things actually work under the hood**.
 
