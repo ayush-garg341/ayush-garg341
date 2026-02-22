@@ -6,6 +6,8 @@ I build software that cares about **performance, correctness, and how things act
 
 I've spent most of my career working on **real-world production systems** from legacy codebases to scalable backend services and I enjoy digging into problems that sit close to the OS, memory, and networking layers.
 
+Public projects with private code: [p2pchat](https://zerolog.chat/), [ChatToPost](https://ayush-garg341.github.io/portfolio/posts/from-chat-to-post-building-a-local-first-desktop-app-to-eliminate-context-switching/)
+
 ---
 ## 🧠 What I'm into right now
 - Doing CTFs from pwn.college and learning cybersecurity.
